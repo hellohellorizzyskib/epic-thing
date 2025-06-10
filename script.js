@@ -2,7 +2,7 @@
 const GAMES = {
   game1: {
     name: "Space Invaders",
-    embed: '<iframe src="https://example.com/space-invaders" allowfullscreen></iframe>',
+    embed: '<iframe src="https://mathhelp.netlify.app/" allowfullscreen></iframe>',
     suggestions: ['game2', 'game3', 'game1']
   },
   game2: {
